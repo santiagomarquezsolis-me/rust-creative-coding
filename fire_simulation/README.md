@@ -3,6 +3,8 @@
 
 This project implements a fire simulation using Rust and the `ggez` game development library. The simulation is inspired by the classic "fire effect" technique used in early computer graphics.
 
+![Fire Simulation](img/fire-screenshot.png)
+
 ## Overview
 
 The fire simulation works by propagating fire intensities through a grid of pixels. Each pixel's intensity is determined based on the intensity of the pixel below it, creating a dynamic and realistic flame effect.
@@ -96,7 +98,7 @@ rand = "0.8.4"
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
