@@ -1,7 +1,7 @@
 
 # Snow Effect in Rust
 
-This project implements a snow effect using the `ggez` game framework in Rust. The code simulates snowflakes falling from the top of the screen, accumulating at the bottom, and being affected by wind.
+This project implements a snow effect using the `ggez` game framework in Rust. The code simulates snowflakes falling from the top of the screen, accumulating at the bottom, and being affected by wind, a static moon is in the upper right corner too ;-)
 
 ## Dependencies
 
