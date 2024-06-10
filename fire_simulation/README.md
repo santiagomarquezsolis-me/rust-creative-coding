@@ -1,7 +1,7 @@
 
 # Fire Simulation in Rust using ggez
 
-This project implements a fire simulation using Rust and the `ggez` game development library. The simulation is inspired by the classic "fire effect" technique used in early computer graphics.
+This project implements a fire simulation using Rust and the `ggez` game development library. The simulation is inspired by the classic "fire effect" technique used in early computer graphics. Personally, is my "Hello World" in any language, and you can even read this article, https://tizenspain.wordpress.com/2013/06/24/tizen-esta-que-arde-o-como-hacer-un-efecto-fuego-en-tizen-nativo/ I wrote a long time ago, about this implementation using Samsung Tizen OS.
 
 ![Fire Simulation](img/fire-screenshot.png)
 
@@ -106,4 +106,4 @@ This project is inspired by the classic fire effect used in early computer graph
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. Enjoy the fire simulation!
+Feel free to contribute to this project by submitting issues or pull requests. t
