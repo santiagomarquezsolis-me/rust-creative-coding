@@ -14,7 +14,7 @@ Add these dependencies to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-ggez = "0.6"
+ggez = "0.9.3"
 rand = "0.8"
 ```
 
